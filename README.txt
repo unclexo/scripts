@@ -1,3 +1,3 @@
 Hello
 
-This is a test text file for github basics
+This text has been updated
